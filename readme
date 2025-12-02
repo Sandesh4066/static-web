@@ -1,0 +1,1 @@
+I created a EC2-Instance using terraform and launched an NGINX server init and attached security group allowing HTTP,HTTPS and SSH for accessing internet and wrote a simple Resume not my resume but showing it works
